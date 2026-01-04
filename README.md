@@ -52,7 +52,7 @@ sports-stats-ml-pipeline/
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/<your-username>/sports-stats-ml-pipeline.git
+https://github.com/muhammadadnanmomin/sports-stats-data-pipeline
 ```
 ```
 cd sports-stats-ml-pipeline
